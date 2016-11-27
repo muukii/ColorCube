@@ -1,7 +1,7 @@
 # ColorCube 
 
 <p align="center">
-  <img src="top@2x.png" width=320>
+  <img src="top@2x.png" width=640>
 </p>
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
