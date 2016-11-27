@@ -1,5 +1,9 @@
 # ColorCube 
 
+<p align="center">
+  <img src="top@2x.png" width=320>
+</p>
+
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 Create CubeData for CIColorCube from LUT image.
