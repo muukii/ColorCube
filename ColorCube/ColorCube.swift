@@ -1,6 +1,6 @@
 //
-//  LookUpTable.swift
-//  LookUpTable
+//  ColorCube.swift
+//  ColorCube
 //
 //  Created by muukii on 2016/11/27.
 //  Copyright © 2016 muukii. All rights reserved.
@@ -16,7 +16,7 @@ import Foundation
   public typealias Image = UIImage
 #endif
 
-public enum LookUpTable {
+public enum ColorCube {
 
   static func createBitmap(image: CGImage, colorSpace: CGColorSpace) -> UnsafeMutablePointer<UInt8>? {
 
